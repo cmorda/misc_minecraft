@@ -320,14 +320,16 @@ arenas:
             skeletons: 10
             spiders: 10
             creepers: 10
+            silverfish: 10
         def2:
           type: default
           priority: 2
           frequency: 2
           monsters:
             zombies: 30
-            powered-creepers: 5
-            skeleton: 5
+            powered-creepers: 2
+            skeleton: 10
+            blaze: 5
         def3:
           type: default
           priority: 2
@@ -344,13 +346,12 @@ arenas:
             powered-creepers: 2
             zombie-pigmen: 10
             babyzombie: 10
-            silverfish: 10
+            enderman: 10
         spec2:
           type: special
           priority: 4
           frequency: 8
           monsters:
-            witherskeleton: 10
             explodingsheep: 10
             ghast: 10
             killerbunny: 10
@@ -398,62 +399,63 @@ arenas:
           health: low
           abilities: fire-aura, throw-nearby
           potions: speed
-          reward: diamond_helmet
+          reward: '322'
         boss3:
           type: boss
           wave: 30
           monster: irongolem
           health: medium
           abilities: arrows, shuffle-positions, disorient-distant, throw-nearby
-          reward: 19322
+          reward: '322'
         boss4:
           type: boss
           wave: 40
           monster: ghast
           health: low
           abilities: fire-aura, throw-nearby, fireballs, root-target
-          reward: 19322
+          reward: '322'
         boss5:
           type: boss
           wave: 50
           monster: skeleton
           health: high
           abilities: arrows, pull-nearby, obsidian-bomb
-          reward: 311
+          reward: '311'
         boss6:
           type: boss
           wave: 60
           monster: squid
           health: high
           abilities: flood, arrows, throw-target, disorient-target, fireballs
-          reward: 19322
+          reward: '322'
         boss7:
           type: boss
           wave: 70
           monster: giant
           health: high
           abilities: arrows, fireballs, throw-nearby, lightning-aura
-          reward: 19324
+          reward: '322:1'
         boss8:
           type: boss
           wave: 80
           monster: zombie
           health: veryhigh
           abilities: chain-lightning, warp-to-player, shuffle-positions
-          reward: 19324
+          reward: '322:1'
         boss9:
           type: boss
           wave: 90
           monster: enderman
           health: veryhigh
           abilities: warp-to-player, fetch-distant, pull-distant, living-bomb
-          reward: 19324
+          reward: '322:1'
         boss10:
           type: boss
           wave: 100
           monster: cave_spider
           health: psycho
           abilities: arrows, root-target, throw-nearby
+          reward: '322:1'
     rewards:
       waves:
         every:
@@ -463,7 +465,7 @@ arenas:
           '20': '264:2'
         after:
           '7': '351:4:3'
-          '14': '133'
+          '14': '388:5'
           '20': '57'
           '50': '443'
           '100': '399'
