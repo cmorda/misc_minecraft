@@ -366,7 +366,7 @@ arenas:
             horse: 10
             mushroomcow: 10
             sheep: 10
-          drops: 262:10, 364:16, 320:16
+          drops: 262:64, 364:16, 320:16
         swarm1:
           type: swarm
           priority: 5
@@ -399,25 +399,25 @@ arenas:
           health: low
           abilities: fire-aura, throw-nearby
           potions: speed
-          reward: '322'
+          reward: '369:2'
         boss3:
           type: boss
           wave: 30
           monster: irongolem
           health: medium
           abilities: arrows, shuffle-positions, disorient-distant, throw-nearby
-          reward: '322'
+          reward: '42'
         boss4:
           type: boss
           wave: 40
           monster: ghast
           health: low
           abilities: fire-aura, throw-nearby, fireballs, root-target
-          reward: '322'
+          reward: '370:5'
         boss5:
           type: boss
           wave: 50
-          monster: skeleton
+          monster: slimehuge
           health: high
           abilities: arrows, pull-nearby, obsidian-bomb
           reward: '311'
@@ -438,17 +438,17 @@ arenas:
         boss8:
           type: boss
           wave: 80
-          monster: zombie
+          monster: pig_zombie
           health: veryhigh
           abilities: chain-lightning, warp-to-player, shuffle-positions
-          reward: '322:1'
+          reward: '283:5, 41'
         boss9:
           type: boss
           wave: 90
           monster: enderman
           health: veryhigh
           abilities: warp-to-player, fetch-distant, pull-distant, living-bomb
-          reward: '322:1'
+          reward: '368:64'
         boss10:
           type: boss
           wave: 100
@@ -459,9 +459,9 @@ arenas:
     rewards:
       waves:
         every:
-          '3': feather, bone, stick
+          '3': leather, bone, stick, 400
           '5': dirt:4, gravel:4, sand:4
-          '10': iron_ingot:10, gold_ingot:8
+          '10': iron_ingot:5, gold_ingot:4
           '20': '264:2'
         after:
           '7': '351:4:3'
