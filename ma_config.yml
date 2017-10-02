@@ -441,7 +441,7 @@ arenas:
           monster: pig_zombie
           health: veryhigh
           abilities: chain-lightning, warp-to-player, shuffle-positions
-          reward: '283:5, 41'
+          reward: 283:5, 41
         boss9:
           type: boss
           wave: 90
