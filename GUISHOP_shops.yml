@@ -706,7 +706,7 @@ Drops:
   - sell-price: 25.0
   - enchantments: ''
   - qty: 1
-Brewing:
+VIPshop:
   '1':
   - id: '370:0'
   - slot: 0
