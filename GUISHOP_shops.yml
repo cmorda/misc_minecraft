@@ -193,43 +193,43 @@ Raiding:
   - qty: 1
 Ores:
   '1':
-  - id: '388:0'
+  - id: '264:0'
   - slot: 0
   - name: ''
-  - buy-price: 150.0
-  - sell-price: 50.0
+  - buy-price: 800.0
+  - sell-price: 400.0
   - enchantments: ''
   - qty: 1
   '2':
-  - id: '264:0'
+  - id: '388:0'
   - slot: 1
   - name: ''
-  - buy-price: 375.0
-  - sell-price: 75.0
+  - buy-price: 800.0
+  - sell-price: 300.0
   - enchantments: ''
   - qty: 1
   '3':
   - id: '266:0'
   - slot: 2
   - name: ''
-  - buy-price: 30.0
-  - sell-price: 10.0
+  - buy-price: 270.0
+  - sell-price: 135.0
   - enchantments: ''
   - qty: 1
   '4':
   - id: '265:0'
   - slot: 3
   - name: ''
-  - buy-price: 8.0
-  - sell-price: 5.0
+  - buy-price: 120.0
+  - sell-price: 60.0
   - enchantments: ''
   - qty: 1
   '5':
-  - id: '263:0'
+  - id: '89:0'
   - slot: 4
   - name: ''
-  - buy-price: 4.0
-  - sell-price: 1.0
+  - buy-price: 70.0
+  - sell-price: 35.0
   - enchantments: ''
   - qty: 1
   '6':
@@ -244,24 +244,24 @@ Ores:
   - id: '331:0'
   - slot: 6
   - name: ''
-  - buy-price: 1.0
-  - sell-price: 1.0
+  - buy-price: 14.0
+  - sell-price: 7.0
   - enchantments: ''
   - qty: 1
   '8':
   - id: '351:4'
   - slot: 7
   - name: ''
-  - buy-price: 1.0
-  - sell-price: 1.0
+  - buy-price: 14.0
+  - sell-price: 7.0
   - enchantments: ''
   - qty: 1
   '9':
   - id: '406:0'
   - slot: 8
   - name: ''
-  - buy-price: 8.0
-  - sell-price: 1.0
+  - buy-price: 12.0
+  - sell-price: 6.0
   - enchantments: ''
   - qty: 1
 Farming:
