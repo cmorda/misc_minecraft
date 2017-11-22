@@ -706,7 +706,7 @@ Drops:
   - sell-price: 25.0
   - enchantments: ''
   - qty: 1
-VIPshop:
+Brewing:
   '1':
   - id: '370:0'
   - slot: 0
@@ -1207,74 +1207,74 @@ Spawners:
   - qty: 1
 Blocks:
   '1':
-  - id: '98:0'
+  - id: '4:0'
   - slot: 0
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.5
   - enchantments: ''
   - qty: 1
   '2':
-  - id: '98:1'
+  - id: '1:0'
   - slot: 1
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 4.0
+  - sell-price: 2.0
   - enchantments: ''
   - qty: 1
   '3':
-  - id: '98:2'
+  - id: '1:5'
   - slot: 2
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 4.0
+  - sell-price: 2.0
   - enchantments: ''
   - qty: 1
   '4':
-  - id: '98:3'
+  - id: '1:1'
   - slot: 3
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 4.0
+  - sell-price: 2.0
   - enchantments: ''
   - qty: 1
   '5':
-  - id: '1:0'
+  - id: '1:3'
   - slot: 4
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 4.0
+  - sell-price: 2.0
   - enchantments: ''
   - qty: 1
   '6':
-  - id: '4:0'
+  - id: '49:0'
   - slot: 5
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 400.0
+  - sell-price: 200.0
   - enchantments: ''
   - qty: 1
   '7':
-  - id: '48:0'
+  - id: '213:0'
   - slot: 6
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 60.0
+  - sell-price: 30.0
   - enchantments: ''
   - qty: 1
   '8':
-  - id: '110:0'
+  - id: '87:0'
   - slot: 7
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 10.0
+  - sell-price: 5.0
   - enchantments: ''
   - qty: 1
   '9':
-  - id: '2:0'
+  - id: '112:0'
   - slot: 8
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 40.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
@@ -1282,503 +1282,287 @@ Blocks:
   - id: '3:0'
   - slot: 9
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 60.0
+  - sell-price: 30.0
   - enchantments: ''
   - qty: 1
   '11':
-  - id: '17:0'
+  - id: '3:1'
   - slot: 10
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 60.0
+  - sell-price: 30.0
   - enchantments: ''
   - qty: 1
   '12':
-  - id: '17:1'
+  - id: '2:0'
   - slot: 11
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 120.0
+  - sell-price: 60.0
   - enchantments: ''
   - qty: 1
   '13':
-  - id: '17:2'
+  - id: '110:0'
   - slot: 12
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 80.0
+  - sell-price: 40.0
   - enchantments: ''
   - qty: 1
   '14':
-  - id: '17:3'
+  - id: '3:2'
   - slot: 13
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 120.0
+  - sell-price: 60.0
   - enchantments: ''
   - qty: 1
   '15':
-  - id: '162:0'
+  - id: '13:0'
   - slot: 14
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 50.0
+  - sell-price: 25.0
   - enchantments: ''
   - qty: 1
   '16':
-  - id: '162:1'
+  - id: '12:0'
   - slot: 15
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 30.0
+  - sell-price: 15.0
   - enchantments: ''
   - qty: 1
   '17':
-  - id: '19:0'
+  - id: '12:1'
   - slot: 16
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 30.0
+  - sell-price: 15.0
   - enchantments: ''
   - qty: 1
   '18':
-  - id: '45:0'
+  - id: '121:0'
   - slot: 17
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 50.0
+  - sell-price: 25.0
   - enchantments: ''
   - qty: 1
   '19':
-  - id: '5:2'
+  - id: '17:0'
   - slot: 18
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '20':
-  - id: '5:3'
+  - id: '17:2'
   - slot: 19
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '21':
-  - id: '5:4'
+  - id: '17:1'
   - slot: 20
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '22':
-  - id: '5:5'
+  - id: '17:3'
   - slot: 21
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '23':
-  - id: '35:0'
+  - id: '162:0'
   - slot: 22
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '24':
-  - id: '82:0'
+  - id: '162:1'
   - slot: 23
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 1.0
+  - sell-price: 0.2
   - enchantments: ''
   - qty: 1
   '25':
-  - id: '172:0'
+  - id: '24:0'
   - slot: 24
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 40.0
+  - sell-price: 20.0
   - enchantments: ''
   - qty: 1
   '26':
-  - id: '49:0'
+  - id: '179:0'
   - slot: 25
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 40.0
+  - sell-price: 20.0
   - enchantments: ''
   - qty: 1
   '27':
-  - id: '24:0'
+  - id: '201:0'
   - slot: 26
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 50.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '28':
-  - id: '12:0'
+  - id: '33:0'
   - slot: 27
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 121.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '29':
-  - id: '12:1'
+  - id: '35:0'
   - slot: 28
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 35.0
+  - sell-price: 3.0
   - enchantments: ''
   - qty: 1
   '30':
-  - id: '20:0'
+  - id: '169:0'
   - slot: 29
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 350.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '31':
-  - id: '13:0'
+  - id: '168:0'
   - slot: 30
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 200.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '32':
-  - id: '155:0'
+  - id: '19:0'
   - slot: 31
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 2000.0
+  - sell-price: 1000.0
   - enchantments: ''
   - qty: 1
   '33':
-  - id: '155:1'
+  - id: '174:0'
   - slot: 32
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 400.0
+  - sell-price: 200.0
   - enchantments: ''
   - qty: 1
   '34':
-  - id: '155:2'
+  - id: '79:0'
   - slot: 33
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 350.0
+  - sell-price: 2.0
   - enchantments: ''
   - qty: 1
   '35':
-  - id: '112:0'
+  - id: '172:0'
   - slot: 34
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 30.0
+  - sell-price: 15.0
   - enchantments: ''
   - qty: 1
   '36':
-  - id: '87:0'
+  - id: '82:0'
   - slot: 35
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 24.0
+  - sell-price: 12.0
   - enchantments: ''
   - qty: 1
   '37':
-  - id: '88:0'
+  - id: '30:0'
   - slot: 36
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 200.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '38':
-  - id: '89:0'
+  - id: '16:0'
   - slot: 37
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 1000.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '39':
-  - id: '116:0'
+  - id: '15:0'
   - slot: 38
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 1500.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '40':
-  - id: '47:0'
+  - id: '14:0'
   - slot: 39
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 2000.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '41':
-  - id: '80:0'
+  - id: '73:0'
   - slot: 40
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 1000.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '42':
-  - id: '79:0'
+  - id: '21:0'
   - slot: 41
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 1000.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '43':
-  - id: '174:0'
+  - id: '56:0'
   - slot: 42
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 7500.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '44':
-  - id: '121:0'
+  - id: '129:0'
   - slot: 43
   - name: ''
-  - buy-price: 100.0
+  - buy-price: 10000.0
   - sell-price: 0.0
   - enchantments: ''
   - qty: 1
   '45':
-  - id: '138:0'
+  - id: '80:0'
   - slot: 44
   - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '46':
-  - id: '310:0'
-  - slot: 0
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '47':
-  - id: '311:0'
-  - slot: 1
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '48':
-  - id: '312:0'
-  - slot: 2
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '49':
-  - id: '313:0'
-  - slot: 3
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '50':
-  - id: '276:0'
-  - slot: 4
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '51':
-  - id: '279:0'
-  - slot: 5
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '52':
-  - id: '278:0'
-  - slot: 6
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '53':
-  - id: '277:0'
-  - slot: 7
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '54':
-  - id: '293:0'
-  - slot: 8
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '55':
-  - id: '306:0'
-  - slot: 9
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '56':
-  - id: '307:0'
-  - slot: 10
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '57':
-  - id: '308:0'
-  - slot: 11
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '58':
-  - id: '309:0'
-  - slot: 12
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '59':
-  - id: '267:0'
-  - slot: 13
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '60':
-  - id: '258:0'
-  - slot: 14
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '61':
-  - id: '257:0'
-  - slot: 15
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '62':
-  - id: '256:0'
-  - slot: 16
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '63':
-  - id: '292:0'
-  - slot: 17
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '64':
-  - id: '261:0'
-  - slot: 18
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '65':
-  - id: '346:0'
-  - slot: 19
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '66':
-  - id: '359:0'
-  - slot: 20
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '67':
-  - id: '421:0'
-  - slot: 21
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '68':
-  - id: '420:0'
-  - slot: 22
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '69':
-  - id: '419:0'
-  - slot: 23
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '70':
-  - id: '418:0'
-  - slot: 24
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '71':
-  - id: '417:0'
-  - slot: 25
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
-  - enchantments: ''
-  - qty: 1
-  '72':
-  - id: '329:0'
-  - slot: 26
-  - name: ''
-  - buy-price: 100.0
-  - sell-price: 0.0
+  - buy-price: 40.0
+  - sell-price: 20.0
   - enchantments: ''
   - qty: 1
