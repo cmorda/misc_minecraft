@@ -16,9 +16,7 @@ groups:
   - helper
   Dustehhh:
   - helper
-  Bobbd12:
   - moderator
-  - helper
   SuperlinkNL:
   - admin
   - moderator
@@ -29,30 +27,21 @@ groups:
   _Chris:
   - moderator
   - helper
-  steakfries723:
-  - helper
   Katsuki_Shouta:
   - moderator
   - helper
   Zdok:
   - moderator
   - helper
-  Al_KunMc:
+  Ali_Mora:
   - helper
-  GlyphHero:
-  - vip
+  - moderator
+  AbyssKatana:
   - helper
-  isaac_kern:
-  - vip
-  Hilo101:
-  - vip
-  wata_beast:
-  - vip
+  BillyBlast:
   - helper
-  lbkfatire:
-  - vip
-  clawofdarkness:
-  - vip
+  isaac_kern
+  - helper
 servers:
   hub:
     address: 10.0.0.189:25533
@@ -106,7 +95,7 @@ listeners:
   - skyblock
   - survival
   - plots
-  - skygrid
+  - prison
   forced_hosts:
     pvp.md-5.net: pvp
   proxy_protocol: false
@@ -181,8 +170,6 @@ permissions:
   - ab.warns.other
   - ab.check
   - ab.banlist
-  vip:
-  - bungeecord.server.hardcore
 online_mode: true
 log_commands: false
 disabled_commands:
