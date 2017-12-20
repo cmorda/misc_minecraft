@@ -40,7 +40,7 @@ groups:
   - helper
   BillyBlast:
   - helper
-  isaac_kern
+  isaac_kern:
   - helper
 servers:
   hub:
