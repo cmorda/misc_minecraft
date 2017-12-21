@@ -95,7 +95,7 @@ listeners:
   - skyblock
   - survival
   - plots
-  - prison
+  - skygrid
   forced_hosts:
     pvp.md-5.net: pvp
   proxy_protocol: false
