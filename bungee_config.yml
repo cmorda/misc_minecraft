@@ -109,6 +109,7 @@ permissions:
   - command.reply
   admin:
   - bungeetablistplus.admin
+  - bungeetablistplus.seevanished
   - bungeecord.command.find
   - bungeecord.command.send
   - bungeecord.command.alert
