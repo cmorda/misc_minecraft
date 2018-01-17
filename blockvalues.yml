@@ -29,7 +29,7 @@ maxdeaths: 10
 # For example, if you limit Jungle Logs LOG:3, then there must be a value for LOG:3
 # in the blocks section. If there is not, then LOG:3 would have no value.
 limits:
-  NETHERRACK: 1000
+  ICE: 1000
   #LOG:3: 10
   
 # This section lists the value of a block. Value must be an integer.
