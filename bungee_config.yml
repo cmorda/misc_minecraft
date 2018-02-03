@@ -42,6 +42,8 @@ groups:
   - helper
   isaac_kern:
   - helper
+  o7_Frost:
+  - helper
 servers:
   hub:
     address: 10.0.0.189:25533
