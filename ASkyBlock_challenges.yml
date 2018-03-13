@@ -50,7 +50,7 @@
 challenges:
   # Challenge levels - list as many as you like. If a challenge's level is '' it can
   # be done anytime.
-  levels: 'Novice Competent Expert Advanced Elite'
+  levels: 'Novice Competent Expert Advanced Elite Final'
     
   # The number of undone tasks that can be left on a level before unlocking next level
   waiveramount: 1
@@ -539,7 +539,7 @@ challenges:
     mason:
       friendlyname: 'Mason'
       description: 'Reach island level 150 (/[label] level).'
-      icon: GOLD_BLOCK
+      icon: LAPIS_BLOCK
       level: 'Expert'
       type: level
       requiredItems: 150
@@ -656,7 +656,7 @@ challenges:
       maxtimes: 100
     noahsark:
       friendlyname: 'Noahs Ark'
-      description: 'Have two cows, chickens, pigs, sheep, mooshrooms, horses, and rabbits within 10 blocks of you.'
+      description: 'Have two cows, chickens, pigs, sheep, mooshrooms, wolves, ocelots and horses within 10 blocks of you.'
       icon: BOAT
       level: 'Advanced'
       type: island
@@ -765,7 +765,7 @@ challenges:
     acidduke:
       friendlyname: 'Arch Duke'
       description: 'Achieve an island level of 1000'
-      icon: DIAMOND_BLOCK
+      icon: GOLD_BLOCK
       level: 'Advanced'
       type: level
       requiredItems: 1000
@@ -783,7 +783,7 @@ challenges:
     beaconator:
       friendlyname: 'Beaconator'
       description: 'Obtain a beacon and a full beacon pyramid (1st layer: iron, 2nd layer: gold, 3rd layer: emerald, 4th layer: diamond)'
-      icon: BEACON
+      icon: NETHER_STAR
       level: 'Elite'
       type: island
       requireditems: 'IRON_BLOCK:81 GOLD_BLOCK:49 EMERALD_BLOCK:25 DIAMOND_BLOCK:9'
@@ -801,7 +801,7 @@ challenges:
     grandmasterpegasusofolympus:
       friendlyname: 'Grand Architect'
       description: 'Achieve an island level of 2500'
-      icon: EMERALD_BLOCK
+      icon: DIAMOND_BLOCK
       level: 'Elite'
       type: level
       requiredItems: 1000
@@ -819,8 +819,8 @@ challenges:
     thebestislandevr:
       friendlyname: 'Best of the Best'
       description: 'Achieve an island level of 10000'
-      icon: DIAMOND_BLOCK
-      level: 'Elite'
+      icon: 
+      level: 'Final'
       type: level
       requiredItems: 10000
       takeItems: false
