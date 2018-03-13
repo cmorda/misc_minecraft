@@ -108,6 +108,14 @@ challenges:
       commands:
       #- kit tools [player]
       #- some other command
+    Final:
+      message: 'Congratulations - you have unlocked the Last Challenge!'
+      rewardDesc: '10 diamonds!'
+      itemReward: 'DIAMOND:10'
+      moneyReward: 50000
+      expReward: 1000
+      premissionReward: ''
+      commands:
       
   # Challenge list
   # Challenge names must be in lowercase.
@@ -819,7 +827,7 @@ challenges:
     thebestislandevr:
       friendlyname: 'Best of the Best'
       description: 'Achieve an island level of 10000'
-      icon: 
+      icon: EMERALD_BLOCK
       level: 'Final'
       type: level
       requiredItems: 10000
