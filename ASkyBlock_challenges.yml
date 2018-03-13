@@ -791,7 +791,7 @@ challenges:
     beaconmaster:
       friendlyname: 'Beaconator'
       description: 'Obtain a beacon and a full beacon pyramid (1st layer: iron, 2nd layer: gold, 3rd layer: emerald, 4th layer: diamond)'
-      icon: NETHER_STAR
+      icon: SEA_LANTERN
       level: 'Elite'
       type: island
       requireditems: 'IRON_BLOCK:81 GOLD_BLOCK:49 EMERALD_BLOCK:25 DIAMOND_BLOCK:9'
