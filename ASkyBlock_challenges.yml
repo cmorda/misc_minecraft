@@ -788,7 +788,7 @@ challenges:
       repeatRewardText: ''
       repeatMoneyReward: 0
       repeatExpReward: 0
-    beaconator:
+    beaconmaster:
       friendlyname: 'Beaconator'
       description: 'Obtain a beacon and a full beacon pyramid (1st layer: iron, 2nd layer: gold, 3rd layer: emerald, 4th layer: diamond)'
       icon: NETHER_STAR
