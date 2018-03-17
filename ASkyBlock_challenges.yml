@@ -302,7 +302,7 @@ challenges:
       takeItems: false
       itemReward: 'IRON_PICKAXE:1 DIRT:5 SPONGE:1'
       rewardText: '1 iron pickaxe, 5 dirt and a Sponge'
-      moneyReward: 50
+      moneyReward: 100
       expReward: 50
       permissionReward: ''
       repeatable: false
@@ -418,7 +418,7 @@ challenges:
       takeItems: false
       itemReward: 'OBSIDIAN:10'
       rewardText: '10 obsidian blocks'
-      moneyReward: 50
+      moneyReward: 750
       expReward: 50
       permissionReward: ''
       repeatable: false
@@ -546,15 +546,15 @@ challenges:
       repeatExpReward: 0
     mason:
       friendlyname: 'Mason'
-      description: 'Reach island level 150 (/[label] level).'
+      description: 'Reach island level 300 (/[label] level).'
       icon: LAPIS_BLOCK
       level: 'Expert'
       type: level
-      requiredItems: 150
+      requiredItems: 300
       takeItems: false
       itemReward: 'DIAMOND:1 DIRT:20 GOLD_BLOCK:2'
       rewardText: '1 diamond, 20 dirt, and 2 gold blocks'
-      moneyReward: 150
+      moneyReward: 3000
       expReward: 150
       permissionReward: ''
       repeatable: false
@@ -584,14 +584,14 @@ challenges:
       maxtimes: 100
     alchemist:
       friendlyname: 'Alchemist'
-      description: 'Brew 1 potion of Fire Resistance, Slowness, Swiftness, Healing, Harming, Invisibility, Strength and Regeneration'
+      description: 'Brew 1 of every potion at its basic level'
       icon: BREWING_STAND_ITEM
       level: 'Advanced'
       type: inventory
-      requiredItems: 'POTION:FIRE_RESISTANCE::::1 POTION:SLOWNESS::::1 POTION:SPEED::::1 POTION:INSTANT_HEAL::::1 POTION:INSTANT_DAMAGE::::1 POTION:INVISIBILITY::::1 POTION:STRENGTH::::1 POTION:REGEN::::1'
+      requiredItems: 'POTION:FIRE_RESISTANCE::::1 POTION:SLOWNESS::::1 POTION:SPEED::::1 POTION:INSTANT_HEAL::::1 POTION:INSTANT_DAMAGE::::1 POTION:INVISIBILITY::::1 POTION:STRENGTH::::1 POTION:REGEN::::1 POTION:JUMP_BOOST::::1 POTION:POISON::::1 POTION:WEAKNESS::::1 POTION:WATER_BREATHING::::1 POTION:NIGHT_VISION::::1'
       takeItems: true
-      itemReward: 'ENCHANTMENT_TABLE:1'
-      rewardText: 'Enchantment Table'
+      itemReward: 'ENCHANTMENT_TABLE:1 NETHER_STALK:64'
+      rewardText: 'An enchantment table, and a stack of nether wart'
       moneyReward: 200
       expReward: 200
       permissionReward: ''
@@ -780,7 +780,7 @@ challenges:
       takeItems: false
       itemReward: 'DIAMOND:9'
       rewardText: '9 diamonds'
-      moneyReward: 250
+      moneyReward: 10000
       expReward: 250
       permissionReward: ''
       repeatable: false
@@ -794,10 +794,10 @@ challenges:
       icon: SEA_LANTERN
       level: 'Elite'
       type: island
-      requireditems: 'IRON_BLOCK:81 GOLD_BLOCK:49 EMERALD_BLOCK:25 DIAMOND_BLOCK:9'
-      takeitems: false
+      requiredItems: 'IRON_BLOCK:81 GOLD_BLOCK:49 EMERALD_BLOCK:25 DIAMOND_BLOCK:9 BEACON:1'
+      takeItems: false
       itemReward: 'STAINED_GLASS:0:1 STAINED_GLASS:1:1 STAINED_GLASS:2:1 STAINED_GLASS:3:1 STAINED_GLASS:4:1 STAINED_GLASS:5:1 STAINED_GLASS:6:1 STAINED_GLASS:7:1 STAINED_GLASS:8:1 STAINED_GLASS:9:1 STAINED_GLASS:10:1 STAINED_GLASS:11:1 STAINED_GLASS:12:1 STAINED_GLASS:13:1 STAINED_GLASS:14:1 STAINED_GLASS:15:1 EMERALD_ORE:1'
-      rewardText: 'some glass to color your beacon, and 1 emerald ore'
+      rewardText: 'Some glass to color your beacon, and 1 emerald ore'
       moneyReward: 250
       expReward: 250
       permissionReward: ''
@@ -812,11 +812,11 @@ challenges:
       icon: DIAMOND_BLOCK
       level: 'Elite'
       type: level
-      requiredItems: 1000
+      requiredItems: 2500
       takeItems: false
       itemReward: 'DIAMOND:18'
       rewardText: '18 diamonds'
-      moneyReward: 250
+      moneyReward: 25000
       expReward: 250
       permissionReward: ''
       repeatable: false
@@ -834,7 +834,7 @@ challenges:
       takeItems: false
       itemReward: 'DIAMOND:36'
       rewardText: '36 diamonds'
-      moneyReward: 250
+      moneyReward: 100000
       expReward: 250
       permissionReward: ''
       repeatable: false
