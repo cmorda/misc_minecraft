@@ -33,16 +33,14 @@ groups:
   Zdok:
   - moderator
   - helper
-  Ali_Mora:
-  - helper
-  - moderator
   AbyssKatana:
-  - helper
-  BillyBlast:
   - helper
   isaac_kern:
   - helper
   o7_Frost:
+  - helper
+  - moderator
+  MrOmegaBeast:
   - helper
 servers:
   hub:
